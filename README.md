@@ -1,2 +1,4 @@
 # CPS765_Trabalho2
 Trabalho #2 da disciplina de Redes Complexas
+
+Neste trabalho construímos uma rede para estudarmos correlações na dinâmica da COVID-19 nos municípios brasileiros. Os vértices representam os municípios e as arestas conectam cidades que possuem alta correlação em suas séries temporais de incidência diária de casos da doença. Analisamos então algumas propriedades estruturais: distribuição de grau, distância, clusterização, centralidade de *closeness*, similaridade e assortatividade. Observamos a rede não é livre de escala. Também, as distâncias na rede possuem uma correlação fraca, mas não desprezível, com a distância física dos municípios. Ainda, a assortatividade dos municípios com relação à região, população e IDH é baixa, mas não desprezível. Por outro lado, a assortatividade em relação ao PIB per capita é muito baixo. Concluímos então que o modelo de rede construído, apesar de simples e limitado, ainda assim é interessante.
