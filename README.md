@@ -1,4 +1,5 @@
-# Construção e Caracterização de uma Rede para Estudo da Covid-19 nos Municípios Brasileiros
+# Construção de uma Rede para Estudo da Covid-19 nos Municípios Brasileiros
+# Building a Network for the Study of Covid-19 in Brazilian Municipalities
 
 ## Resumo
 
